@@ -1,0 +1,11 @@
+nav {
+	background-color: #ff7900;
+	font-family: Arial, sans-serif;
+}
+
+a {
+	background-color: #ff7900;
+	color: white;
+	text-decoration: none;
+	display: inline;
+}
